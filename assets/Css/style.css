@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    content: 0;
+}
+.wrapper .box{
+    width: 800px;
+    height: 600px;
+    margin: 10px ;
+  
+   
+   background-color: yellow;
+    
+}
+.wrapper .box1{
+    width: 750px;
+    height: 550px;
+    background-color:red ;
+    margin: 5px;
+    
+    
+}
+.wrapper .box2{
+    width:700px ;
+    height: 500px;
+    background-color: blue;
+    margin: 8px;
+}
+.wrapper .box3{
+    width: 650px;
+    height: 450px;
+    background-color: goldenrod;
+    margin:6px
+    
+}
+  .wrapper .box4{
+    width: 600px;
+    height: 350px;
+      background-image: url(../image/nature-photo.webp); 
+      
+} 
+
+
+
